@@ -1,5 +1,5 @@
 body {
-  background-color: peru;
+  background-color: olivedrab;
 }
 
 .form,
@@ -9,4 +9,12 @@ body {
 
 .showing {
   display: block;
+}
+
+h1 {
+  color: white;
+}
+
+h4 {
+  color: white;
 }
