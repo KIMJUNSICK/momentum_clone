@@ -2,6 +2,14 @@ body {
   background-color: olivedrab;
 }
 
+h1 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
 .form,
 .greetings {
   display: none;
@@ -9,12 +17,4 @@ body {
 
 .showing {
   display: block;
-}
-
-h1 {
-  color: white;
-}
-
-h4 {
-  color: white;
 }
